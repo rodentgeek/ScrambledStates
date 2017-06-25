@@ -1,0 +1,74 @@
+/*Banner*/
+
+.well {
+	background-color: red;
+	color: white;
+	font-size: 45pt;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.banner1 {
+	background-color: #336699;
+	display: inline-block;
+}
+
+span {
+	vertical-align: middle;
+	margin-bottom: 15px;
+}
+
+/*Intro Page CSS*/
+
+.container2 {
+	width: 85%;
+	margin: 0 auto;
+}
+
+.btn-intro {
+	font-size: 16pt;
+	margin-top: 20px;
+}
+
+/*Game Page CSS*/
+
+#theButton2 {
+	background-color: coral;
+}
+
+/*Shared CSS*/ 
+
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 16pt;
+}
+
+.tiles {
+	height: 56px;
+	width: 62px;
+}
+
+.centerMe {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/*Footer*/
+
+.container_footer {
+  width: 1100px;
+  margin: 0 auto;
+  margin-top: 40px;
+}
+
+.mymsg {
+	font-family: "Arial";
+	font-size: 11pt;
+}
+
+hr {
+height: 1px;
+border: 0;
+color: black;
+background-color: black;
+}
